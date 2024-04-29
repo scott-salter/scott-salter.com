@@ -1,5 +1,6 @@
 ---
 title: 30 Thoughts on Turning 30
+excerpt: What did I learn after turning 30? I share 30 thoughts, lessons and principles from life so far.
 ---
 
 I recently turned 30 in what was a month of milestones. As well as a momentous birthday, I celebrated my first wedding anniversary with my wife and had my first Father’s Day as a dad.
