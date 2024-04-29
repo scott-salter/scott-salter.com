@@ -1,5 +1,6 @@
 ---
 title: Leadership
+excerpt: Directory of notes relating to leadership.
 ---
 
 ### Fleeting Notes

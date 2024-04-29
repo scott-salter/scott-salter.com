@@ -1,5 +1,6 @@
 ---
 title: A powerful question to end your day with 
+excerpt: Did the people I care about most get my best energy today? It's a powerful question to ask each day.
 ---
 
 *"Did the people I care about most, get my best energy?"*

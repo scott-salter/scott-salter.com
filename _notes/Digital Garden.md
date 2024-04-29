@@ -1,5 +1,6 @@
 ---
 title: Digital Garden
+excerpt: A digital garden is a way to collection and publish one's ideas. 
 ---
 
 
