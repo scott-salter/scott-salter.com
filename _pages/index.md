@@ -9,9 +9,11 @@ permalink: /
 
 I'm an SEO based in the South West of England, currently working as SEO & Content Manager at Gymshark.
 
-This is my [[digital garden]]. It's my tiny plot of the internet where I share ideas and learn in public. 
+<img src="https://media.licdn.com/dms/image/D4E03AQGkrVoHxjVz-Q/profile-displayphoto-shrink_800_800/0/1678379575775?e=1720051200&v=beta&t=opclBqkIcYlcr_v_79LuTbvgEqGCy1vZHy5DoLOXJ-w" alt="headshot of Scott Salter" style="width:200px;height:300px;"/>
 
-These notes are written for myself and not necessarily for a third-party reader. So some notes may not make total sense, but that's okay. Some notes or ideas may be innacurate - and that's okay too. 
+Welcome to my website. You'll find a mix of my work, some thoughts, but also some in-progress ideas as I learn in public. 
+
+These ideas and notes are written for myself and not necessarily for a third-party reader. So some notes may not make total sense, but that's okay. Some notes or ideas may be innacurate - and that's okay too. 
 〰️
 
 <p style="padding: 3em 1em; background: #f5f7ff; border-radius: 4px;">
