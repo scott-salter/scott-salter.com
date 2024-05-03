@@ -9,7 +9,7 @@ permalink: /
 
 I'm an SEO based in the South West of England, currently working as SEO & Content Manager at Gymshark.
 
-<img src=""{{scott-salter.com}}/assets/scottsalter.jpg"" alt="headshot of Scott Salter" width="400" height="400"/>
+<img src="/assets/scottsalter.jpg" alt="headshot of Scott Salter" width="400" height="400"/>
 
 Welcome to my website. You'll find a mix of my work, some thoughts, but also some in-progress ideas as I learn in public. 
 
