@@ -9,15 +9,12 @@ permalink: /
 
 I'm an SEO based in the South West of England, currently working as SEO & Content Manager at Gymshark.
 
-<img src="/assets/scottsalter.jpg" alt="headshot of Scott Salter" width="400" height="400"/>
+With a range of experience - from e-commerce to the third sector - I am passionate about driving organic growth. 
 
-Welcome to my website. You'll find a mix of my work, some thoughts, but also some in-progress ideas as I learn in public. 
-
-These ideas and notes are written for myself and not necessarily for a third-party reader. So some notes may not make total sense, but that's okay. Some notes or ideas may be innacurate - and that's okay too. 
-〰️
+Welcome to my corner of the internet. It's nothing special. In fact, I spent a long time tweaking with fancy looking websites, but ultimately decided that I didn't need that. I didn't need the monthly hosting subscriptions. Instead, I've gone back to basics. 
 
 <p style="padding: 3em 1em; background: #f5f7ff; border-radius: 4px;">
-  Not sure where to start? I'd recommend my list of <span style="font-weight: bold">[[Topics]]</span> to get started on your exploration. You'll find a list of my most recently updated notes below, too.
+  Not sure where to start? I'd recommend my <span style="font-weight: bold">[[About]]</span> page, where you can learn more about me. You'll find a list of my most recently updated notes below, too.
 </p>
 
 
